@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Hyperblog 💚
 Un blog increi­ble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y Github de Platzi es lo que me hac­e falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintetica con Machine Learning
@@ -20,3 +21,7 @@ Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para 
 # newproyecto
 proyecto nuevo de git 2023
 >>>>>>> a3ebf470b983a1a1e9846a7c34589d5b2f696ca1
+=======
+# hyperblog2.0
+En este repositorio se probara la dirección ( dariorepogithub.io ) se cambiara el nombre de del archivo hyperblog por "index.html" y para poder acceder de forma directa a la pagina web con "dariorepo.github.io"
+>>>>>>> a068e9476b80919db7ce2b38fdac1148ed133375
